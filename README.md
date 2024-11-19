@@ -1,0 +1,2 @@
+# Real-Estate-Application
+ A comprehensive real estate app that provides an integrated platform allowing users to search for available properties for sale or rent, in addition to investment opportunities and special offers. Users can also book apartments or properties for rent or purchase directly through the app. The app aims to connect users with property owners and investors, offering a complete experience that meets various real estate market needs
